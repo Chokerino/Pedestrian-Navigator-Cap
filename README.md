@@ -1,2 +1,2 @@
-The code of this repo was not updated as all of the programming was done on a Raspberry Pi using a ssh server.
+We created a cap with a Heads Up Display(HUD) to help pedestrians navigate without having to continously having to look at their phones which can help avoid potential accidents. The code of this repo was not updated as all of the programming was done on a Raspberry Pi using a ssh server.
  [Link to website containing further information and a demonstration](https://chokerino.github.io/desk.github.io/cap)
